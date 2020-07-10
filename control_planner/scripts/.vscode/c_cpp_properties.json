@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/pc/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/pc/catkin_ws/src/basic_program_topic/include/**",
+                "/home/pc/catkin_ws/src/find-object/include/**",
+                "/home/pc/catkin_ws/src/hector_slam/hector_geotiff/include/**",
+                "/home/pc/catkin_ws/src/hector_slam/hector_map_tools/include/**",
+                "/home/pc/catkin_ws/src/hector_slam/hector_mapping/include/**",
+                "/home/pc/catkin_ws/src/hector_slam/hector_marker_drawing/include/**",
+                "/home/pc/catkin_ws/src/rp_cam/include/**",
+                "/home/pc/catkin_ws/src/vesc/vesc_ackermann/include/**",
+                "/home/pc/catkin_ws/src/vesc/vesc_driver/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
